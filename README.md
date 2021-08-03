@@ -1,4 +1,4 @@
-# ![alt text](https://github.com/TTS-BJMV/temp/blob/main/images/Logo.jpg) 
+# ![Logo](https://github.com/TTS-BJMV/PEER_PROOF/blob/main/images/Logo.jpg) 
 ## __*PEER PROOF* By TimeTravelingSerpents__ 
 ## Goal: Create a platform for high school students to post their solutions to math textbook questions or challenging math problems and have other students provide feedback and comment on them 
 
